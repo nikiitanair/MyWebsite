@@ -4,7 +4,6 @@ import Sidebar from './components/sidebar';
 import Introduction from './components/introduction';
 import About from './components/about';
 import Expertise from './components/expertise';
-import Badges from './components/badges';
 import Project from './components/projects';
 import Contact from './components/contact';
 
@@ -17,7 +16,6 @@ class App extends Component {
 				<About></About>
         <Project></Project>
         <Expertise></Expertise>
-        {/* <Badges></Badges> */}
         <Contact></Contact>
       </div>
     );
