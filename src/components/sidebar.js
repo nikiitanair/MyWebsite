@@ -15,7 +15,7 @@ export default class Sidebar extends React.Component {
                         <div>
                             <span style={{margin:"10px"}}><a href="https://www.instagram.com/nikk.fury/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></span>
                             <span style={{margin:"10px"}}><a href="https://www.linkedin.com/in/nikita-nair-niki" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></span>
-                            <span style={{margin:"10px"}}><a href="https://github.com/urhit45" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></span>
+                            <span style={{margin:"10px"}}><a href="https://github.com/nikiitanair" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></span>
                         </div>
                     </div>
                 </Menu>
